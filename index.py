@@ -1,6 +1,5 @@
 #  Copyright (c) ChernV (@otter18), 2021.
 
-
 import telebot
 from main import bot
 
